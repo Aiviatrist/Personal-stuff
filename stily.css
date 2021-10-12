@@ -1,0 +1,20 @@
+#apps{
+    background-color:steelblue;
+    
+}
+body{
+    background-color: rgb(199, 28, 108);
+    text-align: center;
+}
+#g{
+height: 6px;
+width:100px;
+background-color:lightslategrey;
+margin: 7px auto;
+}
+#game{
+    background-color:lightsteelblue;
+}
+#chatbot{
+    background-color: lightskyblue;
+}
